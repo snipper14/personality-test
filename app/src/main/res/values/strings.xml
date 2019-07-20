@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">VW</string>
+    <string name="vw_personality_header">TAKE THE VW PERSONALITY CHALLENGE</string>
+    <string name="play">PLAY</string>
+    <string name="employed">EMPLOYED</string>
+    <string name="business">BUSINESS</string>
+    <string name="home">HOMEGIVER</string>
+    <string name="rlaxing_idea">WHAT IS YOUR IDEA OF RELAXING DAY?</string>
+    <string name="apartment">APARTMENT</string>
+    <string name="country_villa">COUNTRYSIDE VILLA</string>
+    <string name="mansion">MANSION</string>
+    <string name="simpleflat">SIMPLE FLAT</string>
+    <string name="ideal_meal">WHAT IS YOUR IDEAL MEAL?</string>
+    <string name="beach">THE BEACH</string>
+    <string name="bush">THE BUSH</string>
+    <string name="mountains">THE MOUNTAINS</string>
+    <string name="cities">OTHER CITIES</string>
+    <string name="car_bussiness">BUSINESS</string>
+    <string name="car_pleasure">PLEASURE</string>
+    <string name="car_adventure">ADVENTURE</string>
+    <string name="getting_around">GETTING AROUND</string>
+    <string name="transport_intro">The legendary Volkswagen passenger van that is proven time again and again</string>
+    <string name="passat_intro">An executive saloon that is stylish and safe</string>
+    <string name="amarok_intro">Stylish,Tough,Robust,A tough double cab pickup with the comfort and safety you expect of a VW saloon</string>
+    <string name="tiguan_intro">Stylish crossover SUV that is ideal for both town and country</string>
+</resources>
